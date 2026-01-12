@@ -1,0 +1,6 @@
+{
+  "name": "libretv",
+  "main": "server.mjs",
+  "compatibility_date": "2026-01-12",
+  "compatibility_flags": ["nodejs_compat"]
+}
